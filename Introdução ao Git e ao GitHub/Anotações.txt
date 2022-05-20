@@ -1,0 +1,37 @@
+Comandos nativos do terminal- Windows
+
+ls -a: mostrar arquivos ocultos
+
+ls: listar as pastas do diretório que você se encontra atualmente.
+
+cd ..: você consegue voltar para uma pasta anterior
+
+mkdir: para criar diretórios intermediários em um caminho especificado.
+
+
+
+//==================================================================
+Comandos Git
+
+git config --global user.name: Configura um nome de usuário
+
+git config --global user.email: Configura um e-mail
+
+git init: Cria um diretório
+
+git status: você pode visualizar os status atuais dos arquivos/diretórios.
+
+git add: Adiciona um arquivo ou diretório específico (staged area)
+
+git commit -m: Com esse comando você ira comitar um arquivo ou diretório junto a uma mensagem.
+
+git rm / -r: Utilizando o comando git rm você pode estar removendo um arquivo, e passando o parâmetro -r removendo um diretório
+
+git push -u origin master ou main: o comando está empurrando o diretório para o GitHub
+
+git clone: o git clone você pode estar clonando um diretório remoto em sua máquina local.
+
+
+
+
+
